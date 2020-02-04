@@ -5,4 +5,3 @@
 Hello, GIT!
 Hello, cherry-pick!
 Htllo, squash!
-
