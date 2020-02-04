@@ -1,3 +1,8 @@
 Новая строка
 Другая строка
 Еще одна строка
+
+Hello, GIT!
+Hello, cherry-pick!
+Htllo, squash!
+
