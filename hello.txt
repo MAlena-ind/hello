@@ -1,13 +1,1 @@
-full
--How are you?
-full3
--Load me now
--Hello, Git!
--My name is Alena.
--What what
--Little dog
--load
--Новая строка
--Другая сторка хеллоу
-Hello, world!
-Hello, Git!
+Hello, git rebase!
